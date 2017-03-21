@@ -10,7 +10,7 @@
 
 ## 使用方式
 
-1.修改appInspector.plist,配置测试app的bundleId
+1.修改idInject.plist,配置测试app的bundleId
 
 ```
 {

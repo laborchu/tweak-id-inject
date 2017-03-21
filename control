@@ -1,9 +1,9 @@
-Package: com.laborc.appInspector
-Name: appInspector
+Package: com.laborc.idInject
+Name: idInject
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: appInspector
+Description: idInject
 Maintainer: laborc
 Author: laborc
 Section: Tweaks
