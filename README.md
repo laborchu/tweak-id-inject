@@ -2,13 +2,13 @@
 
 主要用途是测试人员无法更改源代码，又想通过rawIdentifier来操作元素
 
-##准备工作
+## 准备工作
 
 1.准备一台越狱手机
 
 2.安装theos
 
-##使用方式
+## 使用方式
 
 1.修改appInspector.plist,配置测试app的bundleId
 
