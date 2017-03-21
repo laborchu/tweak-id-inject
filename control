@@ -1,0 +1,9 @@
+Package: com.laborc.appInspector
+Name: appInspector
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: appInspector
+Maintainer: laborc
+Author: laborc
+Section: Tweaks

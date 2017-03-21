@@ -1,0 +1,9 @@
+{
+	Filter = {
+		Bundles = (
+			"com.taobao.taobao4iphone",
+			"com.youku.YouKu",
+			"com.tencent.xin",
+		);
+	};
+}

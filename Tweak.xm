@@ -1,0 +1,1 @@
+#import "UIView+UIAutoTest.h"
